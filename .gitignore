@@ -1,1 +1,5 @@
+Docker/Clase/react/open-react-template/node_modules
+Docker/Terraform/AWS/.terraform/*
+Docker/Terraform/AWS/.terraform.lock.hcl
+Docker/Terraform/AWS/terraform.tfstate.*
 Docker/Terraform/AWS/terraform.tfvars
